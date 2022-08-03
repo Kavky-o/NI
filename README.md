@@ -1,2 +1,2 @@
 # NI
-Ni instrument related engineering documents
+Engineering documents related to Ni instruments
